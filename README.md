@@ -1,4 +1,4 @@
-# Hello, I'm [Sai Pruthvik]
+# Hello, I'm Sai Pruthvik.
 
 I'm a passionate Full Stack Developer who loves diving into the world of technology and creating innovative solutions. Here's a bit about me:
 
