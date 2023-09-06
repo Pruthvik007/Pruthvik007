@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hello, I'm [Sai Pruthvik]
 
-<!--
-**Pruthvik007/Pruthvik007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Developer who loves diving into the world of technology and creating innovative solutions. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 💼 I'm a Full Stack Developer.
+- 💻 I specialize in Java Spring Boot and React Applications.
+- 📊 I'm experienced in working with MySQL and MongoDB databases.
+- 🚀 I thrive on exploring and adopting new technologies.
+- 🎵 When I'm not coding, you can find me enjoying music 🎶.
+- 🎥 I'm also a movie enthusiast, and I enjoy watching a wide range of films.
+- 🎮 In my free time, I'm a gamer, and I love playing video games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+Here are some of the technologies and tools I'm proficient with:
+
+- **Backend**: Java, Spring Boot, Node.js
+- **Frontend**: React, HTML, CSS, JavaScript
+- **Databases**: MySQL, MongoDB
+- **Version Control**: Git, GitHub
+- **IDE**: IntelliJ IDEA, Visual Studio Code
+- **Other**: RESTful API Design
+
+## 🌱 Always Learning
+
+I'm always eager to learn and stay up-to-date with the latest advancements in the tech world. I enjoy collaborating on interesting projects and tackling challenging problems. Feel free to connect with me if you're interested in working together or if you simply want to chat about tech or gaming!
+
+## 📫 Let's Connect
+
+You can reach out to me on GitHub or find me on [LinkedIn](https://www.linkedin.com/in/sai-pruthvik-noule-722208221/). Let's connect and explore the possibilities!
+
+Thanks for visiting my GitHub profile! 👋
