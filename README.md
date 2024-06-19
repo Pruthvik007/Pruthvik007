@@ -27,6 +27,6 @@ I'm always eager to learn and stay up-to-date with the latest advancements in th
 
 ## 📫 Let's Connect
 
-You can reach out to me on GitHub or find me on [LinkedIn](https://www.linkedin.com/in/sai-pruthvik-noule-722208221/). Let's connect and explore the possibilities!
+You can reach out to me on GitHub or find me on [LinkedIn](www.linkedin.com/in/sai-pruthvik-3515b9314). Let's connect and explore the possibilities!
 
 Thanks for visiting my GitHub profile! 👋
